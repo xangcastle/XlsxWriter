@@ -23,6 +23,7 @@ including:
 * Textboxes.
 * Support for adding Macros.
 * Memory optimization mode for writing large files.
+* Different first page header/footer.
 
 It supports Python 3.4+ and PyPy3 and uses standard libraries only.
 
